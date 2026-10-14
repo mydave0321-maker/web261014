@@ -29,3 +29,7 @@ A. 카드에 position: relative를 적용하고 배지에 position: absolute를 
 
 Q. 포스터 이미지 비율을 유지하는 방법은?  
 A. aspect-ratio와 object-fit: cover를 사용한다.
+7주차 영화 보드: 영화 카드 5개, Flex 헤더, Grid 배치, 배경 사진, 600px·1024px 미디어 쿼리 적용
+캡처: w360.png, w1280.png
+자료 출처: TMDB
+AI 질문·답변 요약: 과제 진행 순서, 안내문 코드 옮기기, HTML·CSS 적용 위치, 이미지 주소 변경, 화면 확인과 캡처·업로드 방법을 질문하고 안내받음. 코드와 소개 문구 일부를 제공받아 사용함.
